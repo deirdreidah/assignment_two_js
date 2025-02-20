@@ -3,8 +3,8 @@ function checkDataType(value) {
     return typeof value;
 }
 
-console.log(checkDataType(42)); 
-console.log(checkDataType("Hello")); 
+console.log(typeof(45)); 
+console.log(typeof("Welcome")); 
 
 
 //9
